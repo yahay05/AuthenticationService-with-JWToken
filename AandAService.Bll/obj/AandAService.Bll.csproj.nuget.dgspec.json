@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/AandAService.Bll.csproj": {}
+  },
+  "projects": {
+    "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/AandAService.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/AandAService.Bll.csproj",
+        "projectName": "AandAService.Bll",
+        "projectPath": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/AandAService.Bll.csproj",
+        "packagesPath": "/Users/arajabov/.nuget/packages/",
+        "outputPath": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arajabov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/AandAService.Dal.csproj": {
+                "projectPath": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/AandAService.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/AandAService.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/AandAService.Dal.csproj",
+        "projectName": "AandAService.Dal",
+        "projectPath": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/AandAService.Dal.csproj",
+        "packagesPath": "/Users/arajabov/.nuget/packages/",
+        "outputPath": "/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arajabov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

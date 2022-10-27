@@ -1,0 +1,12 @@
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/bin/Debug/net5.0/AandAService.Dal.deps.json
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/bin/Debug/net5.0/AandAService.Dal.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/bin/Debug/net5.0/ref/AandAService.Dal.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/bin/Debug/net5.0/AandAService.Dal.pdb
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.csproj.AssemblyReference.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.AssemblyInfoInputs.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.AssemblyInfo.cs
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.csproj.CoreCompileInputs.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/ref/AandAService.Dal.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Dal/obj/Debug/net5.0/AandAService.Dal.pdb

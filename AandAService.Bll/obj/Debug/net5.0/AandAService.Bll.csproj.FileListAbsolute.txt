@@ -1,0 +1,15 @@
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/AandAService.Bll.deps.json
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/AandAService.Bll.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/ref/AandAService.Bll.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/AandAService.Bll.pdb
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/AandAService.Dal.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/bin/Debug/net5.0/AandAService.Dal.pdb
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.csproj.AssemblyReference.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.AssemblyInfoInputs.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.AssemblyInfo.cs
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.csproj.CoreCompileInputs.cache
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.csproj.CopyComplete
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/ref/AandAService.Bll.dll
+/Users/arajabov/Desktop/C# Projects/APIs/AandAService/AandAService.Bll/obj/Debug/net5.0/AandAService.Bll.pdb

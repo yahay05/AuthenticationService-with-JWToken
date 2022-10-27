@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{378B0BE9-1593-4200-8542-289C8634DBB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AandAService.WebUI/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="AandAService.Dal/Entities/MyUser.cs" Line="11" Column="51" />
+      <File FileName="AandAService.WebUI/Startup.cs" Line="122" Column="14" />
+      <File FileName="AandAService.Bll/Services/AccountService.cs" Line="254" Column="15" />
+      <File FileName="AandAService.WebUI/Controllers/AccountController.cs" Line="56" Column="34" />
+      <File FileName="AandAService.Bll/Helpers/MapperProfile.cs" Line="15" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AandAService" expanded="True">
+            <Node name="AandAService.Bll" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="RequestModels" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="AandAService.WebUI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AandAService.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
